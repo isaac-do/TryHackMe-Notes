@@ -3,6 +3,7 @@ date: 2026-02-12
 tags:
   - metasploit
   - exploitation
+  - offensive-security
 ---
 Metasploit has two main versions:
 - **Metasploit Pro**: The commercial version that facilitates the automation and management of tasks. This version has a graphical user interface (GUI).

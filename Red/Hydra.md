@@ -2,6 +2,7 @@
 date: 2026-03-03
 tags:
   - hydra
+  - offensive-security
 ---
 # What is Hydra?
 ---

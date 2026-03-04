@@ -3,6 +3,7 @@ date: 2026-03-02
 tags:
   - metasploit
   - exploitation
+  - offensive-security
 ---
 *Meterpreter is a Metasploit payload that supports the penetration testing process with many valuable components. Meterpreter will run on the target system and act as an agent within a command and control architecture. You will interact with the target operating system and files and use Meterpreter's specialized commands.*
 
