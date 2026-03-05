@@ -30,7 +30,7 @@ Common flags:
 
 ## What if the GET parameter is not visible in the URL?
 Inspect the web page and go to the Network tab to find the GET request.
-![](../../PNG%20PDF%20JPEG/attachment-03042026.png)
+![](../PNG%20PDF%20JPEG/attachment-03042026.png)
 
 Then append it to the web URL and feed it to SQLMap.
 Example:

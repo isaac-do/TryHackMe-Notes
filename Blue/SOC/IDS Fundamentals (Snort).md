@@ -21,7 +21,7 @@ Snort is a widely used open-source IDS solutions that uses signature-based and a
 The default directory for snort is `/etc/snort`
 
 ## Rule Format
-![](../../../PNG%20PDF%20JPEG/attachment-03042026-3.png)
+![](../../PNG%20PDF%20JPEG/attachment-03042026-3.png)
 - **Action:** This specifies which action to take when the rule triggers.
 - **Protocol:** This refers to the protocol that matches this rule. 
 - **Source IP:** This determines the IP originating from the traffic. 

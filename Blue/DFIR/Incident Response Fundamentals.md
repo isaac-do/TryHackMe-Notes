@@ -17,4 +17,4 @@ tags:
 | Lessons Learned | Gaps in the detection and analysis of the incident are identified and documented, helping to improve the overall process in future incidents.                                                                                                                           | Conducting a post-incident review meeting to analyze the incident's root cause and improve the security to prevent future attacks.                                                                             |
 
 **NIST IR Framework mapped to SANS**
-![](../../../PNG%20PDF%20JPEG/attachment-03042026-2.png)
+![](../../PNG%20PDF%20JPEG/attachment-03042026-2.png)
