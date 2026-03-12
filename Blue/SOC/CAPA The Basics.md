@@ -3,7 +3,7 @@ date: 2026-03-05
 tags:
   - capa
   - defensive-security
-  - mitre-attck
+  - mitre
 ---
 # CAPA Overview
 ---

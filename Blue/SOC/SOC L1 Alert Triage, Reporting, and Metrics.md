@@ -27,3 +27,8 @@ The Five Ws approach and include at least these items in the report:
 Sample alert comment:
 ![](../../PNG%20PDF%20JPEG/attachment-03092026-1.png)
 ![](../../PNG%20PDF%20JPEG/attachment-03092026-2.png)
+
+# Triage Metrics
+---
+![](../../PNG%20PDF%20JPEG/attachment-03092026-3.png)
+
